@@ -1,3 +1,11 @@
+## Resubmission
+This is a second resubmission based on review comments. Changes are:
+
+* All software references in Description are single quoted
+* All exported functions include an example
+
+Unrelated to the review, the changeset also includes a non-API impacting bug fix in rule evalation.
+
 ## Test environments
 
 * macOS Mojave, R 3.5.3
